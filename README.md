@@ -10,11 +10,11 @@
 
 ## Screenshot Home
 
-![home-page](docs\home.png)
+![home-page](docs/home.png)
 
 ## Screenshot Tasks
 
-![tasks-page](docs\tasks.png)
+![tasks-page](docs/tasks.png)
 
 ## Screenshot Login
 
